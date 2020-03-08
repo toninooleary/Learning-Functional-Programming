@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b63ada1e-9f43-4483-b218-0cd42e140c27" name="Default Changelist" comment="" />
+    <list default="true" id="b63ada1e-9f43-4483-b218-0cd42e140c27" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/imperative/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/imperative/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/imperative/main$Gender.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/imperative/main$Gender.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/imperative/main$Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/imperative/main$Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/imperative/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/imperative/main.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +24,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +35,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1YaZS6SGglKEce7PjYDMbfW2WIX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,8 +43,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -39,7 +55,7 @@
   <component name="RunManager">
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="imperative.main" />
-      <module name="com.toninooleary" />
+      <module name="functional_programming_project" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="imperative.*" />
@@ -69,6 +85,7 @@
       <workItem from="1583182668690" duration="446000" />
       <workItem from="1583246321086" duration="6825000" />
       <workItem from="1583258228756" duration="1452000" />
+      <workItem from="1583691353532" duration="3427000" />
     </task>
     <servers />
   </component>
@@ -84,14 +101,42 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="285" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1583247308959" />
-    <state x="0" y="166" key="SettingsEditor" timestamp="1583259156625">
+    <state x="204" y="178" key="#main" timestamp="1583691974934">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="0" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583259156625" />
-    <state x="661" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1583258232461">
+    <state x="204" y="178" key="#main/0.0.1920.1040@0.0.1920.1040" timestamp="1583691974934" />
+    <state x="300" y="346" key="FileChooserDialogImpl" timestamp="1583691945763">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="661" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583258232461" />
+    <state x="300" y="346" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583691945763" />
+    <state width="934" height="278" key="GridCell.Tab.0.bottom" timestamp="1583698049556">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="934" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583698049556" />
+    <state width="934" height="278" key="GridCell.Tab.0.center" timestamp="1583698049555">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="934" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583698049555" />
+    <state width="934" height="278" key="GridCell.Tab.0.left" timestamp="1583698049555">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="934" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583698049555" />
+    <state width="934" height="278" key="GridCell.Tab.0.right" timestamp="1583698049555">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="934" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583698049555" />
+    <state x="0" y="166" key="SettingsEditor" timestamp="1583691959013">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583691959013" />
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1583691354701">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583691354701" />
+    <state x="0" y="287" key="new project wizard" timestamp="1583691714506">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="287" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1583691714506" />
     <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1583247298563">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
